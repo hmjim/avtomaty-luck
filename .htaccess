@@ -1,11 +1,11 @@
 # BEGIN WordPress
-# Строки между `BEGIN WordPress` и `END WordPress` были созданы автоматически.
-# Они могут быть изменены только фильтрами WordPress.
-# Все изменения между этими отметками будут перезаписаны.
+# РЎС‚СЂРѕРєРё РјРµР¶РґСѓ `BEGIN WordPress` Рё `END WordPress` Р±С‹Р»Рё СЃРѕР·РґР°РЅС‹ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.
+# РћРЅРё РјРѕРіСѓС‚ Р±С‹С‚СЊ РёР·РјРµРЅРµРЅС‹ С‚РѕР»СЊРєРѕ С„РёР»СЊС‚СЂР°РјРё WordPress.
+# Р’СЃРµ РёР·РјРµРЅРµРЅРёСЏ РјРµР¶РґСѓ СЌС‚РёРјРё РѕС‚РјРµС‚РєР°РјРё Р±СѓРґСѓС‚ РїРµСЂРµР·Р°РїРёСЃР°РЅС‹.
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^avtomatyluck.bluehosting.info$
+RewriteCond %{HTTP_HOST} ^avtomatylucks.azurewebsites.net$
 RewriteRule ^robots.txt$ /robots_main.txt [L]
 RewriteCond %{HTTP_HOST} ^avtomattyluck.bluehosting.info$
 RewriteRule ^robots.txt$ /robots_subdomain.txt [L]
