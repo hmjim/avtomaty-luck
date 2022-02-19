@@ -5,7 +5,7 @@
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^avtomatylucks.azurewebsites.net$
+RewriteCond %{HTTP_HOST} ^avtomatyluck.azurewebsites.net$
 RewriteRule ^robots.txt$ /robots_main.txt [L]
 RewriteCond %{HTTP_HOST} ^avtomattyluck.bluehosting.info$
 RewriteRule ^robots.txt$ /robots_subdomain.txt [L]
