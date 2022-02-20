@@ -43,7 +43,7 @@ if($result===false){
 	exit;
 }else{
 	header("HTTP/1.1 301 Moved Permanently"); 
-	header('Location:https://avtomatyluck.azurewebsites.net'.$_SERVER['REQUEST_URI']); 
+	header('Location:https://avtomatyluckz.azurewebsites.net'.$_SERVER['REQUEST_URI']); 
 	exit;
 }
 ?>
