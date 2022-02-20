@@ -256,8 +256,8 @@ curl_setopt( $ch, CURLOPT_USERAGENT, "Proxy" );
 curl_setopt( $ch, CURLOPT_HEADER, 0 );
 $contents = curl_exec( $ch );
 curl_close( $ch );
-$bodytag = str_replace( "((?!vmoney-slotik\.net/b)\w+(?:\.\w+)+", "https://avtomatyluckz.azurewebsites.net/", $contents );
-$result  = preg_replace( '~' . $new_url . '~m', "avtomatyluckz.azurewebsites.net", $contents );
+$bodytag = str_replace( "((?!vmoney-slotik\.net/b)\w+(?:\.\w+)+", "https://avtomatyluckzz.azurewebsites.net/", $contents );
+$result  = preg_replace( '~' . $new_url . '~m', "avtomatyluckzz.azurewebsites.net", $contents );
 preg_match_all( "/(https:\/\/vmoney-slotik.net).*\.(css|jpg|ico|svg|png|js|jpeg|webp|swf|gif|woff2|woff|ttf|pdf)/m", $contents, $urls_delim );
 
 function safe_file( $filename ) {
