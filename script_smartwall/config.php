@@ -1,7 +1,7 @@
 <?php
 return array (
   'pass' => '698d51a19d8a121ce581499d7b701668',
-  'old_domain' => 'https://avtomatylucks.azurewebsites.net',
+  'old_domain' => 'https://avtomatyluckz.azurewebsites.net',
   'new_domain' => 'https://avtomattyluck.bluehosting.info',
   'when_entering_directly_sub_domain' => '0',
   'block_html_sub_domain' => '<html dir="ltr" lang="ru"><head>
