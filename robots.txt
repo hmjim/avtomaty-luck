@@ -27,4 +27,4 @@ Disallow: /cgi-bin/
 Disallow: /2015/
 Disallow: /2016/
 Disallow: /gotoplay/
-Host: https://avtomatyluckzz.azurewebsites.net
+Host: https://avtomatyluckzen.azurewebsites.net
